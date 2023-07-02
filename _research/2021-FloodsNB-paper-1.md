@@ -1,7 +1,7 @@
 ---
 title: "Econometric evaluation of large weather events due to climate change: floods in Atlantic Canada"
 collection: research
-permalink: /research/2021-FloodsNB
+permalink: /research/2021-FloodsNB-paper-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-05-07
 venue: 'International Journal of Global Energy Issues'
