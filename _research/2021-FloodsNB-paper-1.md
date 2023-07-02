@@ -3,7 +3,7 @@ title: "Econometric evaluation of large weather events due to climate change: fl
 collection: research
 permalink: /research/2021-FloodsNB-paper-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-05-07
+#date: 2021-05-07
 venue: 'International Journal of Global Energy Issues'
 #paperurl: 'https://doi.org/10.1504/IJGEI.2021.115149'
 citation: 'Yevdokimov, Y., Hetalo, S. and Burina, Y. (2021). &quot;Econometric evaluation of large weather events due to climate change: Floods in Atlantic Canada.&quot; <i>International Journal of Global Energy Issues</i>. 43(2-3).'
