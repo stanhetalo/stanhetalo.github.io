@@ -10,7 +10,6 @@ author_profile: true
 **[Econometric evaluation of large weather events due to climate change: floods in Atlantic Canada](https://www.inderscienceonline.com/doi/abs/10.1504/IJGEI.2021.115149)** <br />
       <details>
       <summary>
-
       Abstract
 
       </summary>
