@@ -5,4 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-Here should be the content of my research page
+### Publications
+
+{% include base_path %}
+
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
