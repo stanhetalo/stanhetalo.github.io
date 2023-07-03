@@ -8,7 +8,7 @@ author_profile: true
 ## Working papers
 
 **[Wildfire Smoke and Labour Market Outcomes: Evidence from Canada](https://stanhetalo.github.io/files/Paper1-Smoke-Labour-Canada.pdf)** <br />
-(Presented at [CREEA](https://sites.google.com/view/creeaacere/home?authuser=0) 2021; [CEA](https://www.economics.ca/cpages/cea2023) 2023. Best Paper Prize: [CLEF](https://www.sfu.ca/economics/community/news/2023/06/wildfire-smoke-and-labour-market-outcomes--phd-paper-runner-up-f.html) 2023)
+(Presented at [CREEA](https://sites.google.com/view/creeaacere/home?authuser=0) 2021; [CEA](https://www.economics.ca/cpages/cea2023) 2023. _Best Paper Prize_: [CLEF](https://www.sfu.ca/economics/community/news/2023/06/wildfire-smoke-and-labour-market-outcomes--phd-paper-runner-up-f.html) 2023)
 <details>
 <summary>
 
