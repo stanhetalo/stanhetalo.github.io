@@ -14,4 +14,4 @@ author_profile: true
 * ECON 325: Industrial Organization
 * ECON 302: Intermediate Microeconomic Theory II
 * ECON 233: Economic Data and Statistics
-* ECON Intermediate Microeconomic Theory I
+* ECON 201: Intermediate Microeconomic Theory I
