@@ -16,4 +16,5 @@ I am a PhD Candidate at 🍁[Simon Fraser University](https://www.sfu.ca/economi
 <br />
 
 **Media Coverage**
+
 My Job Market Paper recieved [CLEF](https://clef.uwaterloo.ca/prize/) 2023 [Best Paper Prize](https://www.sfu.ca/economics/community/news/2023/06/wildfire-smoke-and-labour-market-outcomes--phd-paper-runner-up-f.html)
