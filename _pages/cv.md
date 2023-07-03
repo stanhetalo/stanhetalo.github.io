@@ -19,6 +19,6 @@ Education
 
 Software Skills
 ======
-* Data management and coding: R, Python, Stata, SQL, NVivo, MS Office, Zoom, LATEX
+* Data management and coding: R, Python, Stata, SQL, NVivo, MS Office, Zoom, LaTeX
 * [SFU Data Fellowships: ML and AI Essentials](https://www.sfu.ca/big-data/data-fellowships/ai-essentials.html), 2022.
   
