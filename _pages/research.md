@@ -26,7 +26,7 @@ Wildfire smoke is known to be an increasing source of air pollution. While gener
 ## Publications
 
 **[Econometric Evaluation of Large Weather Events due to Climate Change: floods in Atlantic Canada](https://www.inderscienceonline.com/doi/abs/10.1504/IJGEI.2021.115149)** <br />
-(Presented at [GRC 2018](https://grc.unbgsa.ca/grc-2018/#home))
+(Presented at [GRC](https://grc.unbgsa.ca/grc-2018/#home) 2018)
 <details>
 <summary>
 
