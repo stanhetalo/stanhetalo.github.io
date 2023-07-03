@@ -17,7 +17,7 @@ Education
 * M.A. in Economics, University of New Brunswick (UNB), 2018.
 * B.Sc. in System Analysis, Kyiv National University (KNU), 2016.
 
-Software
+Software Skills
 ======
 * Data management and coding: R, Python, Stata, SQL, NVivo, MS Office, Zoom, LATEX
 * [SFU Data Fellowships: ML and AI Essentials](https://www.sfu.ca/big-data/data-fellowships/ai-essentials.html), 2022.
