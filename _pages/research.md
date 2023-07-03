@@ -8,7 +8,16 @@ author_profile: true
 ## Working papers
 
 **[Wildfire Smoke and Labour Market Outcomes: Evidence from Canada](https://stanhetalo.github.io/files/Paper1-Smoke-Labour-Canada.pdf)** <br />
-(Presented at [CEA 2023](https://www.economics.ca/cpages/cea2023). Best Paper Prize: [CLEF 2023](https://www.sfu.ca/economics/community/news/2023/06/wildfire-smoke-and-labour-market-outcomes--phd-paper-runner-up-f.html)) 
+(Presented at [CEA 2023](https://www.economics.ca/cpages/cea2023). Best Paper Prize: [CLEF 2023](https://www.sfu.ca/economics/community/news/2023/06/wildfire-smoke-and-labour-market-outcomes--phd-paper-runner-up-f.html))
+<details>
+<summary>
+
+Abstract
+
+</summary>
+      
+Wildfire smoke is known to be an increasing source of air pollution. While general air pollution is known to have a detrimental effect on health andworker productivity, the impact of wildfire smoke has been less studied. In this paper, I combine satellite data capturing daily smoke exposure with monthly individual-level work and earnings data across Canada to evaluate the causal impact of wildfire smoke on labour market outcomes. I find that work hours are reduced by almost one hour each week or approximately 2.5 percent for a typical worker in Canada due to wildfire smoke exposure. These negative impacts are lasting and persist up to two years into the future. My results highlight the importance of considering the long-term labour market impacts when assessing future air regulations or wildfire prevention investments.
+</details> 
 
 ## Publications
 
