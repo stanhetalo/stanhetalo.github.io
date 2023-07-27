@@ -16,7 +16,7 @@ Abstract
 
 </summary>
       
-Wildfire smoke is known to be an increasing source of air pollution. While general air pollution is known to have a detrimental effect on health andworker productivity, the impact of wildfire smoke has been less studied. In this paper, I combine satellite data capturing daily smoke exposure with monthly individual-level work and earnings data across Canada to evaluate the causal impact of wildfire smoke on labour market outcomes. I find that work hours are reduced by almost one hour each week or approximately 2.5 percent for a typical worker in Canada due to wildfire smoke exposure. These negative impacts are lasting and persist up to two years into the future. My results highlight the importance of considering the long-term labour market impacts when assessing future air regulations or wildfire prevention investments.
+Wildfire smoke is known to be an increasing source of air pollution. While general air pollution is known to have a detrimental effect on health and worker productivity, the impact of wildfire smoke has been less studied. In this paper, I combine satellite data capturing daily smoke exposure with monthly individual-level work and earnings data across Canada to evaluate the causal impact of wildfire smoke on labour market outcomes. I find that work hours are reduced by almost one hour each week or approximately 2.5 percent for a typical worker in Canada due to wildfire smoke exposure. These negative impacts are lasting and persist up to two years into the future. My results highlight the importance of considering the long-term labour market impacts when assessing future air regulations or wildfire prevention investments.
 </details>
 
 ## Work in Progress
