@@ -44,7 +44,6 @@ Abstract
       
 This article focuses on the causal impact of forest fire smoke on motor vehicle collisions in the contiguous Western United States. To evaluate this effect, I merged daily wildfire smoke exposure data with the number of car crashes for all counties in the American West. My detailed findings demonstrate the negative impact of smoke on road accidents. I document that a smoke day increases the number of deadly collisions by a 7.1 percent compared to a day without smoke plumes. The adverse effect is mostly observable in the metropolitan areas and adds $3.7 billion or roughly 0.9 percent in estimated losses from car fatalities annually within the entire United States.
 </details>
-<br />
 
 
 
