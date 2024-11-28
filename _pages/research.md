@@ -19,9 +19,18 @@ Abstract
 Wildfire smoke is known to be an increasing source of air pollution. While general air pollution is known to have a detrimental effect on health and worker productivity, the impact of wildfire smoke has been less studied. In this paper, I combine satellite data capturing daily smoke exposure with monthly individual-level work and earnings data across Canada to evaluate the causal impact of wildfire smoke on labour market outcomes. I find that work hours are reduced by almost one hour each week or approximately 2.5 percent for a typical worker in Canada due to wildfire smoke exposure. These negative impacts are lasting and persist up to two years into the future. My results highlight the importance of considering the long-term labour market impacts when assessing future air regulations or wildfire prevention investments.
 </details>
 
-## Work in Progress
 
-* *"Wildfire Smoke and Road Safety in British Columbia"*
+**[Heterogeneous Effects of Wildfire Smoke on Road Safety in British Columbia](https://stanhetalo.github.io/files/Paper2-Smoke-Road-BC.pdf)** 
+<details>
+<summary>
+
+Abstract
+
+</summary>
+      
+This paper analyzes the effect of wildfire smoke and the resulting poor air quality on road safety in the province of British Columbia (BC), Canada. Using satellite observations of smoke plumes over municipalities in BC, I find that smoke exposure has a non-linear impact on the number of dangerous vehicle accidents. The most common lower-intensity smoke leads to 1.4 percent rise in collisions. This increase is mostly concentrated within urban areas and during the day time. Rare heavy smoke episodes are associated with avoidance behaviour among drivers and slightly decrease threatening car crashes. Overall, my findings emphasize the importance of broader effects of climate change and air pollution.
+</details>
+
 
 ## Publications
 
