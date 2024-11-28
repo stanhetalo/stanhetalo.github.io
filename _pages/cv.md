@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Economics, Simon Fraser University (SFU), 2024 (expected)
+* Ph.D. in Economics, Simon Fraser University (SFU), 2024.
 * M.A. in Economics, University of New Brunswick (UNB), 2018.
 * B.Sc. in System Analysis, Kyiv National University (KNU), 2016.
 
